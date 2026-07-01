@@ -86,3 +86,11 @@ build_flags =
 - новый модуль добавляется парой `src/<module>/<name>.cpp` + `include/<module>/<name>.h`
 
 Такой порядок теперь считаем стандартом idDOS.
+
+## License
+
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**.
+
+You may use, study, modify and share this software for personal, educational and other non-commercial purposes.
+
+Commercial use, commercial distribution, sale, or integration into commercial products requires prior written permission from the author.
